@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-map/static/css/main.b100e6da.chunk.css",
+    "main.js": "/google-map/static/js/main.6dbf0117.chunk.js",
+    "main.js.map": "/google-map/static/js/main.6dbf0117.chunk.js.map",
+    "runtime-main.js": "/google-map/static/js/runtime-main.f1e8c7a3.js",
+    "runtime-main.js.map": "/google-map/static/js/runtime-main.f1e8c7a3.js.map",
+    "static/js/2.2df7fdc8.chunk.js": "/google-map/static/js/2.2df7fdc8.chunk.js",
+    "static/js/2.2df7fdc8.chunk.js.map": "/google-map/static/js/2.2df7fdc8.chunk.js.map",
+    "index.html": "/google-map/index.html",
+    "precache-manifest.cc25ebd4c63fe445f9dabfcfd0a8c6b9.js": "/google-map/precache-manifest.cc25ebd4c63fe445f9dabfcfd0a8c6b9.js",
+    "service-worker.js": "/google-map/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/google-map/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/google-map/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1e8c7a3.js",
+    "static/js/2.2df7fdc8.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.6dbf0117.chunk.js"
+  ]
+}
